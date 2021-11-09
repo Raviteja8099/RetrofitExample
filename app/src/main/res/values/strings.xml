@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">DynamiCalculator</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="table1_column1">Income Slabs</string>
+    <string name="table1_column2">Tax Rates</string>
+    <string name="table1_row1_col2">where the total income does not exceed Rs 2,50,000/-</string>
+    <string name="table1_row1_col3">NIL</string>
+    <string name="table1_row2_col2">where the total income exceed Rs 2,50,000/ but does not exceed Rs 5,00,000/-</string>
+    <string name="table1_row2_col3"><![CDATA[5% of the amount by which the total income exceeds Rs.2,50,000/- Rebate: maximum of Rs.12500/- where total income <= Rs.5,00,000/-]]></string>
+    <string name="table1_row3_col2">where the total income exceed Rs 5,00,000/- but does not exceed Rs 10,00,000/-</string>
+    <string name="table1_row3_col3">Rs.12,500/- + 20% of the amount by which the total income exceeds Rs.5,00,000/-</string>
+    <string name="table1_row4_col3">where the total income exceed Rs 10,00,000/-</string>
+    <string name="table1_row5_col2">Rs.112,500/- + 30% of the amount by which the total income exceeds Rs.10,00,000/-</string>
+    <string name="table2_row1_col2">where the total income exceed Rs.50,00,000/- but does not exceed Rs.10,00,00,00/-</string>
+    <string name="table2_row1_col3">10% of the Income tax or 70% of (taxable income - Rs.50,00,000), whichever is less.</string>
+    <string name="table2_row2_col2">"where the total income exceed Rs.10,00,00,00/- but does not exceed Rs.20,00,00,00/- "</string>
+    <string name="table2_row2_col3">15% of the Income tax or 70% of (taxable income - Rs.10,00,00,00) added with surcharges upto Rs.10,00,00,00 whichever is less.</string>
+    <string name="table2_row3_col2">where the total income exceed Rs.20,00,00,00/- but does not exceed Rs.50,00,00,00/-</string>
+    <string name="table2_row3_col3">25% of the Income tax or 70% of (taxable income - Rs.20,00,00,00) added with surcharges upto Rs.20,00,00,00 whichever is less.</string>
+    <string name="table2_row4_col3">where the total income exceed Rs.50,00,00,00/-</string>
+    <string name="table2_row5_col2">37% of the Income tax or 70% of (taxable income - Rs.50,00,00,00) added with surcharges upto Rs.50,00,00,00 whichever is less.</string>
+</resources>
